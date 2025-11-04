@@ -34,7 +34,6 @@
 
 ### 📬 Контакты
 - Email: <nwscorporation@mail.ru>
-- Telegram: t.me/**добавь_ник, если нужен**
 
 ### 🚧 Проекты
 Публичные репозитории с оформлением в процессе.  
@@ -45,3 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20work-yes-brightgreen" />
 </p>
+<p align="center">
+  <img src="https://imgur.com/a/VXIiGTt" alt="Kotlin/Java Knight Banner" />
+</p>
+
