@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-yes-brightgreen" />
 </p>
 <p align="center">
-  <img src="https://imgur.com/a/VXIiGTt" alt="Kotlin/Java Knight Banner" />
+  <img src="https://raw.githubusercontent.com/NightWiseDev/NightWiseDev/main/assets/kneeling-knight-tech-banner.png"
+       alt="Kotlin/Java Knight Banner — Griffith-style"
+       width="980" />
 </p>
 
