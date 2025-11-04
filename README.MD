@@ -2,7 +2,7 @@
 
 <p align="center">
   JVM Developer (Kotlin/Java) • Minecraft Plugins • Spring Boot Backend<br/>
-  <b>Open to freelance</b> • TZ: Europe/Chisinau • Pronouns: он/его • nx / nws
+  <b>Open to freelance</b> • TZ: Europe • Pronouns: он/его • nx / nws
 </p>
 
 ---
